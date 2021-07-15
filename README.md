@@ -1,3 +1,5 @@
+![CC The Defiant](https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://thedefiant.io/wp-content/uploads/elementor/thumbs/options-thumb-p3k1eb333v68e3323yx13lbday1qy18uq0umlwndl4.jpg)
+Image Credits: The Defiant
 
 # Defi-Options-Guide
 A collective repository to understand all things Defi Options. As the ecosytem grows, it would be useful to have one repository so new and existing entrants can learn.
