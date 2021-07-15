@@ -1,5 +1,5 @@
 ![CC The Defiant](https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://thedefiant.io/wp-content/uploads/elementor/thumbs/options-thumb-p3k1eb333v68e3323yx13lbday1qy18uq0umlwndl4.jpg)
-Image Credits: The Defiant
+Image Credits: [The Defiant](https://thedefiant.io/defi-on-chain-options/)
 
 # Defi-Options-Guide
 A collective repository to understand all things Defi Options. As the ecosytem grows, it would be useful to have one repository so new and existing entrants can learn.
@@ -10,6 +10,7 @@ Feel free to submit PR's for additional edits.
 - [An Update of ‘A Comparison of Decentralized Options Platforms'](https://medium.com/coinmonks/an-update-of-a-comparison-of-decentralized-options-platforms-91b14d3a6170) by FinNexus
 - [Defi Options Landscape](https://medium.com/siren-markets/defi-options-landscape-4599bdd17d06) by SIREN
 - [Awesome Options](https://github.com/opynfinance/awesome-options) by Opyn
+- [Understanding Defi Options (Opyn, Hegic, SIREN, Ribbon Finance, and more)](https://medium.com/coinmonks/understanding-defi-options-opyn-hegic-siren-ribbon-finance-and-more-4f05477037b0) by Tom Terado
 
 **Intro**
 - [Difference on Call and Put Options](https://twitter.com/ZetaMarkets/status/1413946696145379328) by Zeta Markets
@@ -22,7 +23,7 @@ Feel free to submit PR's for additional edits.
 **Advanced**
 
 - [Learn about and interpret option market activit](https://twitter.com/PelionCap/status/1240570302272282624) by PelionCap
-- [Onchain AMM Options Pricing](https://twitter.com/cindyleowtt/status/1391804798089924608) by Cindy 
+- [Onchain AMM Options Pricing](https://twitter.com/cindyleowtt/status/1391804798089924608) by Cindy Leow
 - [Everlasing Options](https://www.paradigm.xyz/2021/05/everlasting-options/) by Paradigm
 - [Essentials Series: Option Vega](https://blog.dopex.io/essentials-series-option-vega-1c435a92bad0) by Dopex
 - [Essentials Series: Option Theta](https://blog.dopex.io/essentials-series-option-theta-a412f666434f) by Dopex
